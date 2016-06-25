@@ -1,6 +1,7 @@
 [Nintendo Entertainment System]
 nickname=NES
-emulator=
+emulator=RetroArch_NES
+extensions=nes
 
 [Super Nintendo]
 nickname=SNES
@@ -43,7 +44,8 @@ extensions=gbc
 
 [Gameboy Advance]
 nickname=GBA
-emulator=
+emulator=RetroArch_GBA
+extensions=gba
 
 [Nintendo DS]
 nickname=DS
