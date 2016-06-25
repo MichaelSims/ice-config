@@ -1,0 +1,18 @@
+# Example Windows Configuration
+# [bsnes]
+# location=
+# command=
+
+# Example Mac Configuration
+# [Mednafen]
+# location=/Emulators/mednafen/mednafen
+# command=%l %r
+
+# Example GNU/Linux Configuration
+# [SNES9X-GTK]
+# location=/usr/bin/snes9x-gtk
+# command=%l %r
+
+[RetroArch_SNES]
+location=C:\SteamLibrary\Emulator\RetroArch\retroarch.exe
+command=%l -fullscreen -L cores\bsnes_balanced_libretro.dll %r
