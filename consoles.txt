@@ -37,7 +37,9 @@ emulator=
 
 [Nintendo Gameboy]
 nickname=Gameboy
-emulator=
+emulator=RetroArch_Gameboy
+extensions=gb
+extensions=gbc
 
 [Gameboy Advance]
 nickname=GBA

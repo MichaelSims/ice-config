@@ -16,3 +16,8 @@
 [RetroArch_SNES]
 location=C:\SteamLibrary\Emulator\RetroArch\retroarch.exe
 command=%l -fullscreen -L cores\bsnes_balanced_libretro.dll %r
+
+[RetroArch_Gameboy]
+location=C:\SteamLibrary\Emulator\RetroArch\retroarch.exe
+command=%l -fullscreen -L cores\gambatte_libretro.dll %r
+
