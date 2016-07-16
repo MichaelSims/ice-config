@@ -28,3 +28,7 @@ command=%l -fullscreen -L cores\vba_next_libretro.dll %r
 [RetroArch_NES]
 location=C:\SteamLibrary\Emulator\RetroArch\retroarch.exe
 command=%l -fullscreen -L cores\quicknes_libretro.dll %r
+
+[Dolphin]
+location=C:\Program Files\Dolphin\dolphin.exe
+command=%l --batch --exec=%r

@@ -14,11 +14,13 @@ emulator=
 
 [Nintendo Gamecube]
 nickname=Gamecube
-emulator=
+emulator=Dolphin
+extensions=iso
 
 [Nintendo Wii]
 nickname=Wii
-emulator=
+emulator=Dolphin
+extensions=wad
 
 [Playstation 1]
 nickname=PS1
