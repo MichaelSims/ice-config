@@ -21,6 +21,7 @@ extensions=iso
 nickname=Wii
 emulator=Dolphin
 extensions=wad
+extensions=iso
 
 [Playstation 1]
 nickname=PS1
