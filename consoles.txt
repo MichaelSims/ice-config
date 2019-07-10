@@ -20,8 +20,7 @@ extensions=iso
 [Nintendo Wii]
 nickname=Wii
 emulator=Dolphin
-extensions=wad
-extensions=iso
+extensions=wad,iso
 
 [Playstation 1]
 nickname=PS1
@@ -42,8 +41,7 @@ emulator=
 [Nintendo Gameboy]
 nickname=Gameboy
 emulator=RetroArch_Gameboy
-extensions=gb
-extensions=gbc
+extensions=gb,gbc
 
 [Gameboy Advance]
 nickname=GBA
